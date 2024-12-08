@@ -1,5 +1,5 @@
-# Sumit Sharma's Personal Portfolio ⚡️ 
-> Welcome to my personal portfolio! 🚀
+# 🩺 Hi, I'm Sumit Sharma! 🐾
+> Welcome to my personal portfolio! I'm a passionate veterinarian and researcher with a strong focus on precision data analytics in dairy farming, animal physiology, biology and nutrition, sustainable food production systems, epidemiology, and data-driven technologies. This portfolio is where I share a bit about my journey, my work, and the projects I’ve been involved with. Feel free to explore!
 
 > https://SumitSharmaVet.github.io
 
